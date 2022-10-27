@@ -26,4 +26,4 @@ Assignment #4:
 * JavaScript
 
 ## Setup
-click here to see the [output](https://mcdgomez.github.io/my website)
+click here to see the [output](https://mcdgomez.github.io/mywebsite)
